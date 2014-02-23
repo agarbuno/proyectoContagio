@@ -10,3 +10,5 @@ textpattern/
 HISTORY.txt
 README.txt
 *.txt
+*.out
+*.log
