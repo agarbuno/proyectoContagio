@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  22 FEB 2014 20:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  22 FEB 2014 21:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -460,7 +460,7 @@ Here is how much of TeX's memory you used:
  10419 multiletter control sequences out of 15000+200000
  12149 words of font info for 47 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,11n,37p,365b,630s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,11n,37p,399b,630s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -473,7 +473,7 @@ xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
 012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "plan de trabajo.pdf" (3 pages, 168419 bytes).
+Output written on "plan de trabajo.pdf" (3 pages, 168515 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  91 compressed objects within 1 object stream
